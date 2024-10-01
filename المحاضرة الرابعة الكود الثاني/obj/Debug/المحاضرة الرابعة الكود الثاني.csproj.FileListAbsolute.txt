@@ -1,0 +1,9 @@
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الرابعة الكود الثاني\المحاضرة الرابعة الكود الثاني\bin\Debug\المحاضرة الرابعة الكود الثاني.exe.config
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الرابعة الكود الثاني\المحاضرة الرابعة الكود الثاني\bin\Debug\المحاضرة الرابعة الكود الثاني.exe
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الرابعة الكود الثاني\المحاضرة الرابعة الكود الثاني\bin\Debug\المحاضرة الرابعة الكود الثاني.pdb
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الرابعة الكود الثاني\المحاضرة الرابعة الكود الثاني\obj\Debug\المحاضرة الرابعة الكود الثاني.csprojResolveAssemblyReference.cache
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الرابعة الكود الثاني\المحاضرة الرابعة الكود الثاني\obj\Debug\المحاضرة_الرابعة_الكود_الثاني.Form1.resources
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الرابعة الكود الثاني\المحاضرة الرابعة الكود الثاني\obj\Debug\المحاضرة_الرابعة_الكود_الثاني.Properties.Resources.resources
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الرابعة الكود الثاني\المحاضرة الرابعة الكود الثاني\obj\Debug\المحاضرة الرابعة الكود الثاني.csproj.GenerateResource.Cache
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الرابعة الكود الثاني\المحاضرة الرابعة الكود الثاني\obj\Debug\المحاضرة الرابعة الكود الثاني.exe
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الرابعة الكود الثاني\المحاضرة الرابعة الكود الثاني\obj\Debug\المحاضرة الرابعة الكود الثاني.pdb
